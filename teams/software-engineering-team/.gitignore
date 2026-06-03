@@ -1,0 +1,7 @@
+# Local Claude settings (machine-specific, not for sharing)
+.claude/settings.local.json
+
+# Runtime/operational data (generated as team works)
+docs/
+wiki/
+report/
